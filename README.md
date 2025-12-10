@@ -84,9 +84,14 @@ If you like the template, please star this repository to inspire the team to cre
 https://github.com/NextJSTemplates/startup-nextjs#
 
 ## Usage
-
+Build and deploy:
 ```
 npm run build
 
 npx serve out
+```
+
+Run the dev server:
+```
+npm run dev
 ```
