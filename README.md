@@ -80,6 +80,9 @@ If you like the template, please star this repository to inspire the team to cre
 
 - Upgraded to Next.js 15
 
+## Template source
+https://github.com/NextJSTemplates/startup-nextjs#
+
 ## Usage
 
 ```
